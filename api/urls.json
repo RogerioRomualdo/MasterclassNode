@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "Youtube",
+      "url": "http://www.youtube.com"
+    },
+    {
+      "name": "Google",
+      "url": "http//:www.google.com"
+    },
+    {
+      "name": "Discord",
+      "url": "http//:www.discord.com"
+    },
+    {
+      "name": "Github",
+      "url": "http//:www.github.com"
+    }
+  ]
+}
